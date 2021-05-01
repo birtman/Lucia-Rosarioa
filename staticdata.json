@@ -1,0 +1,53 @@
+{
+    "cells": [
+        {
+            "title": "anxiety",
+            "image": "/Users/birtespreuer/Desktop/CODE/Lucia-Rosarios-Psychotherapy/src/images/icon.png"
+        },
+        {
+            "title": "depression",
+            "image": "/../images/icon.png"
+        },
+        {
+            "title": "sexuality",
+            "image": "https://www.dropbox.com/s/e9qshi3adkvs13j/icon.png?dl=0"
+        },
+        {
+            "title": "relationships",
+            "image": "/src/images/icon.png"
+        },
+        {
+            "title": "family issues",
+            "image": "/src/images/icon.png"
+        },
+        {
+            "title": "cultural adaption",
+            "image": "/src/images/icon.png"
+        },
+        {
+            "title": "life crises",
+            "image": "/src/images/icon.png"
+        },
+        {
+            "title": "personal growth",
+            "image": "/src/images/icon.png"
+        },
+        {
+            "title": "loneliness",
+            "image": "/src/images/icon.png"
+        },
+        {
+            "title": "coaching",
+            "image": "/src/images/icon.png"
+        },
+        {
+            "title": "work conflict",
+            "image": "/src/images/icon.png"
+        },
+        {
+            "title": "trauma",
+            "image": "/src/images/icon.png"
+        }
+        
+    ] 
+}
